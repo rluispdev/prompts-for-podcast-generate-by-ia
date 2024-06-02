@@ -35,6 +35,10 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
+# Projeto Podcast no NOTION
+
+- Acesse o meu projeto [aqui](https://iron-curler-180.notion.site/Expresso-Swift-888c1883f8e5406cb353063fee28a7d2)
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -95,4 +99,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ READ desenvolvido por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ READ/Projeto desenvolvido por [Felipe Aguiar](https://github.com/felipeAguiarCode)
